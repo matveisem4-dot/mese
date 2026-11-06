@@ -1,9 +1,0 @@
-{
-  "name": "P2P Messenger",
-  "short_name": "P2P Msg",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#0e1621",
-  "theme_color": "#3390ec",
-  "icons": [{ "src": "favicon.ico", "sizes": "any", "type": "image/x-icon" }]
-}
